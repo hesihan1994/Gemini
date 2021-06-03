@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/anfederico/Gemini/blob/master/media/logo.png" width="150px"><p>
+<p align="center"><img src="https://github.com/anfederico/gemini/blob/master/gemini/media/logo.png" width="150px"><p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -9,7 +9,7 @@
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 [![License](https://img.shields.io/badge/license-GPL-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 <br>
-<p align="center"><img src="https://github.com/anfederico/Gemini/blob/master/media/schematic.gif" width="550px"><p>
+<p align="center"><img src="https://github.com/anfederico/Gemini/blob/master/gemini/media/schematic.gif" width="550px"><p>
 
 ## Install
 
