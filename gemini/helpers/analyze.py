@@ -110,7 +110,7 @@ def analyze_bokeh(algo, title=None, show_trades=False):
 
     # p.rect(df_j.timestamp, )
 
-    bokeh.plotting.show(p)
+    # bokeh.plotting.show(p)
 
 
 # def analyze_mpl(algo, title=None, show_trades=False):
