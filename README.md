@@ -14,7 +14,7 @@
 ## Install
 
 ```bash
-pip3 install git+git://github.com/liamhartley/Gemini.git
+pip3 install git+git://github.com/hesihan1994/Gemini.git
 ```
 
 ## Load
